@@ -1,0 +1,4 @@
+setting up
+1. install tailwind
+2. add custom font
+3. add icons
